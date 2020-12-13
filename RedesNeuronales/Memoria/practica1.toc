@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{3}%
+\contentsline {section}{\numberline {2}Primer contacto, tutorial}{3}%
+\contentsline {section}{\numberline {3}Red multicapa}{4}%
+\contentsline {section}{\numberline {4}Tratamiento de los datos}{5}%
+\contentsline {section}{\numberline {5}Siguientes experimentos}{6}%
+\contentsline {subsection}{\numberline {5.1}Número de epoch}{6}%
+\contentsline {subsection}{\numberline {5.2}batch\_size}{6}%
+\contentsline {subsection}{\numberline {5.3}Algoritmo de entrenamiento}{7}%
+\contentsline {subsection}{\numberline {5.4}Tipo de neuronas}{7}%
+\contentsline {subsection}{\numberline {5.5}Mascaras de convolución}{7}%
+\contentsline {section}{\numberline {6}Mejor experimento}{8}%
+\contentsline {section}{\numberline {7}Conclusiones}{9}%
