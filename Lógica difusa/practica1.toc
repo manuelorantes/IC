@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Resumen}{3}%
+\contentsline {section}{\numberline {2}Introducción}{3}%
+\contentsline {section}{\numberline {3}Diferentes estudios sobre los controladores de semáforos con lógica difusa}{3}%
+\contentsline {section}{\numberline {4}Otros trabajos relacionados}{6}%
+\contentsline {section}{\numberline {5}Diseño de un simulador de tráfico para un cruce}{7}%
+\contentsline {section}{\numberline {6}Modelo}{8}%
+\contentsline {section}{\numberline {7}Modelo de lógica difusa}{11}%
+\contentsline {section}{\numberline {8}Uso de los semáforos inteligentes alrededor del mundo}{20}%
+\contentsline {subsection}{\numberline {8.1}Pittsburg, Pennsylvania (USA)}{20}%
+\contentsline {subsection}{\numberline {8.2}Artículo en MESinsights}{21}%
+\contentsline {subsection}{\numberline {8.3}NoTraffic}{21}%
